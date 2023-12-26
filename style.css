@@ -11,7 +11,7 @@
 .submaindivofline{
     height: 50px;
     width: 700px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: auto;
 }
 
@@ -699,7 +699,7 @@
 .maindiv9th {
     height: 520px;
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
 }
 
@@ -949,7 +949,7 @@
 .learnabouttext{
     height: 60px;
     width: 400px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin-left: 145px;
 }
 
